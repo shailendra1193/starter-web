@@ -1,7 +1,5 @@
-# Starter Web Repo
+#This is jst sample
 
-This repository is for showing how Git and GitHub work
+## Ignore whatever it say
 
-## Purpose
-
-Sample website with plenty of files for demos
+## jst for practice

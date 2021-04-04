@@ -1,4 +1,4 @@
-#This is jst sample
+# This is jst sample
 
 ## Ignore whatever it say
 

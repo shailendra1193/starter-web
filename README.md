@@ -11,3 +11,5 @@
 ## Rebase example
 
 ## this is myfeature
+
+## stash ex
